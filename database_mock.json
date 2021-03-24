@@ -1,0 +1,40 @@
+{
+	"students": [
+		{
+				"id": 1,
+				"name": "Ben",
+				"surname": "Blue",
+				"grade": "passed"
+		},
+		{
+				"id": 2,
+				"name": "Miley",
+				"surname": "Yellow",
+				"grade": "failed"
+		},
+		{
+				"id": 3,
+				"name": "George",
+				"surname": "Green",
+				"grade": "passed"
+		},
+		{
+				"id": 4,
+				"name": "John",
+				"surname": "Doe",
+				"grade": "failed"
+		},
+		{
+				"id": 5,
+				"name": "Jack",
+				"surname": "Black",
+				"grade": "passed"
+		},
+		{
+				"id": 6,
+				"name": "Nick",
+				"surname": "Red",
+				"grade": "passed"
+		}
+	]
+}
